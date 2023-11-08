@@ -51,6 +51,7 @@ Data modeling is the process of structuring and organizing data to create relati
 ## Dashboard:
 
 - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZjZjZDg4ZTctNTlhNy00MTNmLTg2YTktODRiMzNkYjRhMzBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiondbe459b692c788674386) **to interact with the dashboard**
+- **Insights are incorporated in the GIFs below**
 
 ## Insights :
 
